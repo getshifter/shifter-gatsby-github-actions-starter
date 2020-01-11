@@ -188,7 +188,7 @@ const HomepageLayout = ({ pageNumber, location, children }) => (
               />
             </div>
             <a
-              href="https://github.com/getshifter/shifter-gatsby-starter"
+              href="https://github.com/getshifter/shifter-gatsby-github-actions-starter"
               rel="noopener noreferrer"
               target="_blank"
             >
