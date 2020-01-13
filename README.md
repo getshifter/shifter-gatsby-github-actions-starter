@@ -10,15 +10,15 @@ Example Gatsby site using WordPress and WPGraphQL hosted on Shifter, builds usin
 ### Gatsby Starter Template
 [https://github.com/getshifter/shifter-gatsby-github-actions-starter](https://github.com/getshifter/shifter-gatsby-github-actions-starter)
 
-### Gatsby Site on Netlify
+### Gatsby Build on Netlify
 [https://shifter-gatsby-github-actions.netlify.com/](https://shifter-gatsby-github-actions.netlify.com/)
 
 ### Static WordPress site on Shifter
 [https://cranky-hypatia2216.on.getshifter.io/](https://cranky-hypatia2216.on.getshifter.io/)
 
 ### Shifter GitHub Actions
-[https://github.com/marketplace/actions/start-shifter-wordpress](https://github.com/marketplace/actions/start-shifter-wordpress)
-[https://github.com/marketplace/actions/stop-shifter-wordpress](https://github.com/marketplace/actions/stop-shifter-wordpress)
+- [https://github.com/marketplace/actions/start-shifter-wordpress](https://github.com/marketplace/actions/start-shifter-wordpress)
+- [https://github.com/marketplace/actions/stop-shifter-wordpress](https://github.com/marketplace/actions/stop-shifter-wordpress)
 
 ## This Repo Explained
 
