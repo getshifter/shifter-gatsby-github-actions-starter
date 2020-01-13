@@ -37,4 +37,3 @@ Inside [.github/workflows/main.yml](https://github.com/getshifter/shifter-gatsby
 ### [Netlify](https://www.netlify.com)
 
 The static site created by Gatsby is hosted on Netlify. After the build is creating using GitHub Actions, those files are deployed to Netlify.
-
